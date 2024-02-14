@@ -1,7 +1,7 @@
 function GitHubButton() {
   return (
     <a
-      href="https://github.com/silver-times"
+      href="https://github.com/silver-times/dotidotTask"
       target="_blank"
       rel="noopener noreferrer"
     >
