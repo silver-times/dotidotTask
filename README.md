@@ -1,7 +1,3 @@
 # React Network Graph
 
-Project URL:https://graph-rs.netlify.app/
-
-```html
-
-```
+Project URL: https://graph-rs.netlify.app/
